@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da120a4e-2319-49e7-9b8c-753cea673afb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ProjectId" id="1YjHM2tlkJOMcN7YMhJTrgA6oUl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../date_fetch" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\panel\sub-main" />
+      <recent name="C:\xampp\htdocs\panel\tisc" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\panel\sub-main\inc" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da120a4e-2319-49e7-9b8c-753cea673afb" name="Default Changelist" comment="" />
+      <created>1583449048801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583449048801</updated>
+      <workItem from="1583449050207" duration="6421000" />
+      <workItem from="1583492361954" duration="24977000" />
+      <workItem from="1583598489052" duration="6156000" />
+      <workItem from="1583761190401" duration="50449000" />
+      <workItem from="1584009901064" duration="2384000" />
+      <workItem from="1584039073497" duration="2309000" />
+      <workItem from="1584133135041" duration="29273000" />
+      <workItem from="1584293980454" duration="10533000" />
+      <workItem from="1584367139646" duration="18999000" />
+      <workItem from="1584406808990" duration="5774000" />
+      <workItem from="1584483760532" duration="8566000" />
+      <workItem from="1584531695527" duration="16444000" />
+      <workItem from="1584565717044" duration="3083000" />
+      <workItem from="1584630932388" duration="3754000" />
+      <workItem from="1584720080820" duration="675000" />
+      <workItem from="1584811675911" duration="4829000" />
+      <workItem from="1584825406536" duration="651000" />
+      <workItem from="1584912952391" duration="17599000" />
+      <workItem from="1585022064402" duration="17328000" />
+      <workItem from="1585069089611" duration="6529000" />
+      <workItem from="1585080263980" duration="253000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1585080514614">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1585080514614" />
+    <state x="301" y="72" key="SettingsEditor" timestamp="1584552012238">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="72" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1584552012238" />
+    <state x="495" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1584039139577">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="495" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1584039139577" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1584990646540">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1584990646540" />
+    <state x="456" y="83" width="672" height="676" key="search.everywhere.popup" timestamp="1585074756729">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="83" width="672" height="676" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1585074756729" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/sub-main/validation.php</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
