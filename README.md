@@ -1,3 +1,5 @@
+<html></html>
+
 •	Digitization transformation for Academy of Scientific Research and Technology system:
 -This organization has many office and each one has a specific roles in the system as follows:
 -Main office (ASRT):
