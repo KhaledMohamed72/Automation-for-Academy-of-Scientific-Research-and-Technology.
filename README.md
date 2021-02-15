@@ -28,10 +28,10 @@
 -can create and edit its report. </p>
 <p>
 - Dashboard: https://tico-digitization.com/
-•	Main Office: (Username: superadmin , Password: admin)
-•	Manager Office(TICO): (Username: admin , Password: admin)
-•	TISC Office: (Username: tisc , Password: admin)
-•	GICO Office: (Username: gico , Password: admin)
+	<strong>•	Main Office: (Username: superadmin , Password: admin)</strong>
+<strong>•	Manager Office(TICO): (Username: admin , Password: admin)</strong>
+<strong>•	TISC Office: (Username: tisc , Password: admin)</strong>
+<strong>•	GICO Office: (Username: gico , Password: admin)</strong>
 </p>
 	</body>
 </html>
