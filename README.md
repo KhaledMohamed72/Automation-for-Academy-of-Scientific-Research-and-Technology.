@@ -1,5 +1,6 @@
-<html></html>
-
+<html>
+	<body>
+	
 •	Digitization transformation for Academy of Scientific Research and Technology system:
 -This organization has many office and each one has a specific roles in the system as follows:
 -Main office (ASRT):
@@ -22,3 +23,6 @@
 •	Manager Office(TICO): (Username: admin , Password: admin)
 •	TISC Office: (Username: tisc , Password: admin)
 •	GICO Office: (Username: gico , Password: admin)
+	</body>
+</html>
+
